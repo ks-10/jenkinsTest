@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCase.TestCase" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-25T11:49:08" hostname="DESKTOP-T4AOKQD" time="46.111">
+  <properties/>
+  <testcase name="test1" classname="testCase.TestCase" time="46.111"/>
+  <system-out><![CDATA[2020-09-25 17:19:29 INFO - Chrome Browser is invoked successfully...
+2020-09-25 17:19:34 INFO - http://www.leafground.com/ URL is loaded successfully
+2020-09-25 17:19:35 INFO - Element clicked successfully .. 
+2020-09-25 17:19:37 INFO - Element clicked successfully .. 
+2020-09-25 17:19:40 INFO - Element clicked successfully .. 
+2020-09-25 17:19:42 INFO - Element clicked successfully .. 
+2020-09-25 17:19:44 INFO - Window0is closed successfully
+2020-09-25 17:19:46 INFO - Window1is closed successfully
+2020-09-25 17:19:48 INFO - Window2is closed successfully
+2020-09-25 17:19:50 INFO - Window3is closed successfully
+2020-09-25 17:19:52 INFO - Window4is closed successfully
+2020-09-25 17:19:54 INFO - Window5is closed successfully
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 40409
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 25, 2020 5:19:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
